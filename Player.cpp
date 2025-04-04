@@ -2,7 +2,7 @@
 //  Player.cpp
 //  Program 3
 //
-//  Created by Elijah-Amir Hodges on 3/16/24.
+//  Created by Elijah-Amir Hodges
 //
 
 #include "Player.hpp"
